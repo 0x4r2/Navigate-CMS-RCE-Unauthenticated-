@@ -7,7 +7,7 @@ This script exploits:
 
 
 ## Use Mode
-<pre><code>wget https://raw.githubusercontent.com/albertor02/Navigate-CMS-RCE-Unauthenticated-/main/navigate_RCE.sh
+<pre><code>wget https://raw.githubusercontent.com/0x4r2/Navigate-CMS-RCE-Unauthenticated-/main/navigate_RCE.sh
 
 ./navigate_RCE.sh navigator.hm</code></pre>
 
